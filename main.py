@@ -5,7 +5,7 @@
 
 def cong(a, b):
     a = 2
-    b = 3
+    b = 4
     return 0
 
 # Press the green button in the gutter to run the script.
