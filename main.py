@@ -6,7 +6,7 @@
 def tru(c, d):
     a = 2
     b = 4
-    if a>0 & b>0:
+    if a>1 & b>0:
         return 0
 
 # Press the green button in the gutter to run the script.
